@@ -1,27 +1,29 @@
 {
-  "name": "node-js-sample",
+  "name": "bitstarter",
   "version": "0.0.1",
-  "description": "a sample node.js app for heroku",
+  "description": "bitstarter",
   "main": "web.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node web.js"
   },
   "dependencies": {
-    "express": "2.5.x"
+    "express": "~2.5.11"
   },
   "engines": {
     "node": "0.8.x",
-    "npm": "1.1.x"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/davidsantosdias/bitstarter"
   },
   "keywords": [
     "node",
     "heroku"
   ],
-  "author": "Mark Pundsack",
-  "license": "BSD",
-  "gitHead": "90fd58e343c29e54fc1d4e19036595500b2bdc21"
+  "author": "David Dias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidsantosdias/bitstarter/issues"
+  },
+  "devDependencies": {}
 }

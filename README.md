@@ -1,2 +1,5 @@
-node-js-sample
+bitstarter
 ==============
+
+
+##Startup Engineering Course by Stanford
